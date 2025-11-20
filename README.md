@@ -39,5 +39,5 @@ Currently building strong fundamentals through projects, hands-on labs, and real
 🔗 LinkedIn: (www.linkedin.com/in/)
 
 
-🐙 GitHub: github.com/Pratik-dev07
+🐙 GitHub: https://github.com/Pratik-dev07
 
