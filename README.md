@@ -1,4 +1,6 @@
-<h1> 👋 Hey, I'm Pratik Singare < h1>
+👋 Hey, I'm Pratik Singare
+
+
 🚀 BCA Student | Aspiring DevOps & Cloud Engineer
 
 I'm a passionate learner exploring Cloud, AWS, DevOps, Linux, Docker, Kubernetes, CI/CD & Automation.
