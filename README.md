@@ -40,8 +40,8 @@ Currently building strong fundamentals through projects, hands-on labs, and real
 
 📧 Email: your- pratiksingareofficial0207@gmail.com
 
-🔗 LinkedIn: (www.linkedin.com/in/
-pratik-singare-a0065a204)
+🔗 LinkedIn: (www.linkedin.com/in/)
+
 
 🐙 GitHub: github.com/Pratik-dev07
 
