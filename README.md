@@ -20,7 +20,7 @@ Currently building strong fundamentals through projects, hands-on labs, and real
 
 ☁️ Learning AWS Services deeply
 
-🎯 Goal → DevOps Engineer at MAANG companies
+🎯 Goal → DevOps Engineer.
 
 📘 Currently Learning
 
