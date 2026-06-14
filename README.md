@@ -1,7 +1,7 @@
 👋 Hey, I'm Pratik Singare
 
 
-🚀 BCA Student | Aspiring DevOps & Cloud Engineer
+🚀 BCA Fresher  | Aspiring DevOps & Cloud Engineer
 
 I'm a passionate learner exploring Cloud, AWS, DevOps, Linux, Docker, Kubernetes, CI/CD & Automation.
 Currently building strong fundamentals through projects, hands-on labs, and real-world tools.
